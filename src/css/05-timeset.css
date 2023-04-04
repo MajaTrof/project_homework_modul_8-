@@ -1,0 +1,11 @@
+.is-visible {
+   border: 2px solid firebrick;
+   font-size: large;
+   display: block;
+   width: 200px;
+
+}
+
+/* .alert {
+     display: none;
+} */
